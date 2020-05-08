@@ -53,7 +53,7 @@ et-xmlfile==1.0.1
 fast-histogram==0.8
 fastcache==1.0.2
 fastTSNE==0.2.13
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.2
 fsspec==0.7.1
 future==0.16.0
